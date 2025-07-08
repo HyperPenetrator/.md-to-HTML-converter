@@ -1,3 +1,4 @@
+[![Python application](https://github.com/HyperPenetrator/.md-to-HTML-converter/actions/workflows/python-app.yml/badge.svg)](https://github.com/HyperPenetrator/.md-to-HTML-converter/actions/workflows/python-app.yml)
 # Markdown to HTML Converter (Basic)
 
 A simple beginner-friendly Python script to convert Markdown files to HTML using only file I/O and manual string manipulation.
